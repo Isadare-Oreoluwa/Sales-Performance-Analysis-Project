@@ -1,5 +1,3 @@
----
-
 ## 📊 Dashboard
 
 The interactive Power BI dashboard provides visual insights into:
@@ -53,7 +51,7 @@ Browse the repository to explore the datasets, SQL scripts, Excel workbook, Powe
 
 To download the complete project:
 
-1. Click the **Code** button at the top of the repository.
+1. Click the **Code** button.
 2. Select **Download ZIP**.
 3. Extract the ZIP file to access all project files.
 
